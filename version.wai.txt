@@ -1,0 +1,8 @@
+whoami (GNU coreutils) 8.13
+Copyright © 2011 Free Software Foundation, Inc.
+Licencia GPLv3+: GPL de GNU versión 3 o posterior
+<http://gnu.org/licenses/gpl.html>.
+Esto es software libre: usted es libre de cambiarlo y redistribuirlo.
+No hay NINGUNA GARANTÍA, hasta donde permite la ley.
+
+Escrito por Richard Mlynarik.
