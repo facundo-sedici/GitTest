@@ -1,6 +1,6 @@
 ESTOS SON LOS MODULOS CARGADOS EN EL KERNEL.
 
-Module                  Size  Used by
+MMMMMModule                  Size  Used by
 snd_hda_codec_hdmi     31775  1 
 snd_hda_codec_realtek   174313  1 
 parport_pc             32114  0 
