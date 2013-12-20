@@ -1,3 +1,5 @@
+Éstas son las características hardware de mi máquina luego de un "sudo lshw".
+
 facundo-n53sv
     descripción: Notebook
     producto: N53SV ()
