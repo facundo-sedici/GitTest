@@ -1,3 +1,4 @@
+ANTES DE HACER EL PULL-REQUEST A FacundoAdorno/GitTest (G1).
 ESTOS SON LOS MODULOS CARGADOS EN EL KERNEL.
 
 MMMMMModule                  Size  Used by
