@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ANTES DE HACER EL PULL-REQUEST A FacundoAdorno/GitTest (I1), pero luego de crear el nuevo BRANCH.
+=======
+ANTES DE HACER EL PULL-REQUEST A FacundoAdorno/GitTest (A2), pero sobre la rama <pull-request>.
+>>>>>>> pull-request
 ESTOS SON LOS MODULOS CARGADOS EN EL KERNEL.
 
 MMMMMModule                  Size  Used by
