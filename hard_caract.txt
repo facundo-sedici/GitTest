@@ -1,4 +1,4 @@
-Éstas son las características hardware de mi máquina luego de un "sudo lshw".
+Éstas son las características hardware de mi máquina luego de un "sudo lshw". Esto es un cambio desde EGit!
 
 facundo-n53sv
     descripción: Notebook
